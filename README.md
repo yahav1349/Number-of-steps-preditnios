@@ -1,6 +1,6 @@
 # Number-of-steps-preditnios
-Project about calssify csv files to running bs walking activities based on acceleration in x, y, z axis by creating a features vactor fot it files and train a classifcation model.
-predict number of steps based on files of x.y.z accelaration, predict type of activity
+Project about calssify csv files to running vs walking activities based on acceleration in x, y, z axis by creating a features vactor fot it files and train a classifcation model.
+predict number of steps based on files of x.y.z accelaration, predict type of activity.
 ים
 #  In order to use this file, do the following:
 1. open colab in your browser.
