@@ -1,4 +1,4 @@
-# Number-of-steps-preditnios
+# Number-of-steps-predictions
 Project about calssify csv files to running vs walking activities based on acceleration in x, y, z axis by creating a features vactor fot it files and train a classifcation model.
 predict number of steps based on files of x.y.z accelaration, predict type of activity.
 
